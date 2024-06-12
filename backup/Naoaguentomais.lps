@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Naoaguentomais.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="carregamento.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TelaDeCarregamentoF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Carregamento"/>
+        <TopLine Value="12"/>
+        <CursorPos X="54" Y="36"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="login.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="LoginF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Login"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="42"/>
+        <CursorPos X="23" Y="60"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="telaprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="TelaPrincipalF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="TelaPrincipal"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="22"/>
+        <CursorPos X="58" Y="35"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="datamodule.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DataModule1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DataModule"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="17"/>
+        <CursorPos X="86" Y="18"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="cad_funcionarios.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Cad_FuncionariosF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Cad_Funcionarios"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="26"/>
+        <CursorPos X="3" Y="60"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="cad_produtos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Cad_ProdutosF"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Cad_Produtos"/>
+        <EditorIndex Value="3"/>
+        <ComponentState Value="1"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\AppData\Local\lazarus\onlinepackagemanager\packages\zeosdbo\src\dbc\ZDbcMySqlUtils.pas"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="291"/>
+        <CursorPos Y="308"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="datamodule.lfm"/>
+        <EditorIndex Value="6"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Projeto_Systoy-main\Final\datamodule.lfm"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="24">
+      <Position>
+        <Filename Value="carregamento.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="carregamento.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="carregamento.pas"/>
+        <Caret Line="40" Column="12" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="carregamento.pas"/>
+        <Caret Line="29" Column="26" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+        <Caret Line="49" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+        <Caret Line="32" Column="15" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+        <Caret Line="40" Column="3" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="login.pas"/>
+        <Caret Line="59" Column="15" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="39" Column="53" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="40" Column="53" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_funcionarios.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="34" Column="26" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_produtos.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="telaprincipal.pas"/>
+        <Caret Line="35" Column="44" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_funcionarios.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_funcionarios.pas"/>
+        <Caret Line="58" Column="3" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_funcionarios.pas"/>
+        <Caret Line="59" Column="3" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="datamodule.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="cad_produtos.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="datamodule.lfm"/>
+      </Position>
+      <Position>
+        <Filename Value="datamodule.pas"/>
+        <Caret Line="9" Column="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

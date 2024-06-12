@@ -1,0 +1,49 @@
+object TelaPrincipalF: TTelaPrincipalF
+  Left = 1209
+  Height = 300
+  Top = 270
+  Width = 400
+  Caption = 'TelaPrincipalF'
+  ClientHeight = 300
+  ClientWidth = 400
+  DesignTimePPI = 120
+  Menu = MainMenu1
+  LCLVersion = '3.4.0.0'
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 29
+    Top = 271
+    Width = 400
+    Panels = <    
+      item
+        Width = 150
+      end    
+      item
+        Width = 131
+      end    
+      item
+        Width = 62
+      end>
+    SimplePanel = False
+  end
+  object MainMenu1: TMainMenu
+    Left = 53
+    Top = 79
+    object Cadastro: TMenuItem
+      Caption = 'Cadastro'
+      object Funcionarios: TMenuItem
+        Caption = 'Funcionarios'
+        OnClick = FuncionariosClick
+      end
+      object Produtos: TMenuItem
+        Caption = 'Produtos'
+        OnClick = ProdutosClick
+      end
+    end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 320
+    Top = 30
+  end
+end
